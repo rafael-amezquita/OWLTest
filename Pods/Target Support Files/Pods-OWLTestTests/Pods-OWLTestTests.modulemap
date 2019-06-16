@@ -1,0 +1,6 @@
+framework module Pods_OWLTestTests {
+  umbrella header "Pods-OWLTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
